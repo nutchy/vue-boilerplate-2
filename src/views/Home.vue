@@ -1,6 +1,10 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
+    Something
+    <b-button variant="info" class="m-1">
+      Show alert with count-down timer
+    </b-button>
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
   </div>
 </template>
