@@ -1,4 +1,4 @@
-# plate
+# Vue Advance boilerplate
 
 ## Project setup
 ```
